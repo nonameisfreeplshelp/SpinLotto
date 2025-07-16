@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfosojo07o4w3"]
+
+[ext_resource type="Script" uid="uid://bmdsf8xlgv4la" path="res://scenes/ticket/Ticket.gd" id="1_prbva"]
+
+[node name="Ticket" type="Panel"]
+script = ExtResource("1_prbva")
+
+[node name="SlotBox" type="HBoxContainer" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0

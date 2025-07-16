@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://d2wha6gfludi"]
+
+[node name="GameHud" type="CanvasLayer"]
+
+[node name="CoinsLabel" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "0"

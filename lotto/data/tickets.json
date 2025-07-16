@@ -1,0 +1,10 @@
+[
+  {
+    "id": "basic",
+    "price": 10,
+    "slots": 5,
+    "number_range": [1, 50],
+    "win_patterns": [["row"], ["all"]],
+    "weight": 1
+  }
+]
